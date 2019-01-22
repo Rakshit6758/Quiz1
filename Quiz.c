@@ -137,7 +137,7 @@ main()
 		score=score-1;
 	}
 	puts("\n11. How many keywords are thier in c language");
-	puts("A.42\nB.32\nC.56\Dnone of these");
+	puts("A.42\nB.32\nC.56\nD.none of these");
 	printf("Ans:");
 	scanf("%c",&answer);
 	if ((answer=='b')||(answer=='B'))
